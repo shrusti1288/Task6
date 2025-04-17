@@ -39,10 +39,10 @@ Step 4: Enable GitHub Pages
 
 Step 5: Access Your Website
 After a few minutes, your website will be live at:
-https://your-username.github.io
+https://your-shrusti1288.github.io
 
 Step 6: GitHub Repository Link
 Your GitHub repository can be accessed at:
-https://github.com/your-username/your-username.github.io
+https://github.com/your-shrusti1288/your-shrusti1288.github.io
 
 That’s it! You've successfully deployed a static website using GitHub Pages. Let me know if you need further assistance.
